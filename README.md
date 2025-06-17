@@ -11,3 +11,4 @@ Note that either the --filename OR --folder command can be used. If no filename 
 
 **diagram.pdf**: In my `satellite_pass_predictions.py`, I did not find any Skyfield documentation to calculate the elevation angle at a point in time. All I could receive was the *time* at which a satellite reached its max elevation. Using this time period, I calculated the position of the Ground Station and the Satellite and calculated the angle of elevation. This pdf is a diagram that explains my calculations.
 
+**Scheduling Technical Analysis.pdf**: My Part 2 of the assignment. Talks about possible approaches to schedule satellites.
